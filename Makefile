@@ -9,7 +9,7 @@ pod:
 
 ## Позволяет быстро открыть workspace проекта
 start:
-	open SpyGameiOS.xcworkspace
+	open AlreadyPossible.xcworkspace
 
 ## Очищает содержимое папки DerivedData
 clean:
